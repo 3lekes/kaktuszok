@@ -1,0 +1,46 @@
+header{
+    background-color: rgb(3, 185, 218);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+    margin-top: 10px;  
+    border: solid rgb(20, 72, 121);
+    border-radius: 10px;
+}
+
+nav{
+    background-color: rgb(1, 95, 202);
+    margin: 10px 0px 10px 0px;
+    border: solid rgb(23, 103, 196);
+    border-radius: 10px;
+}
+
+
+nav a{
+    color: rgb(197, 197, 6);
+    font-size: 16px;
+    text-decoration: none;
+}
+a:hover{
+    background-color:rgb(84, 192, 224);
+    color: whitesmoke;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 6px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+footer{
+    background-color: rgb(0, 217, 255);
+    color: white;
+    text-align: center;
+    padding: 8px;
+    margin-top: 10px;
+    border: solid rgb(5, 93, 175);
+    border-radius: 10px;
+}
+
+
+    
